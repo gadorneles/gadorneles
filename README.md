@@ -14,7 +14,7 @@ Automation Engineer with passion for robotics and hands-on experience as a resea
 - 🥇 **Brazilian Robotics Competition** 2024  
 - 7th Place **Robocup Salvador** 2025
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/gadorneles">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gadorneles&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gadorneles&layout=compact&langs_count=7&theme=dracula"/>
